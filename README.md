@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Handenur Duran Özdemir</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
